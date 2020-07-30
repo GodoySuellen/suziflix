@@ -1,8 +1,8 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Killing Eve",
+      "link": "https://www.bbcamerica.com/shows/killing-eve",
       "cor": "#6BD1FF",
       "link_extra": {
         "text": "Formação de Front End na Alura",
@@ -10,8 +10,8 @@
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Killing Eve - Uma série empolgante para curtir a Quarentena #FicaEmCasa",
+          "url": "https://www.youtube.com/watch?v=OZkejVAEIHQ"
         },
         {
           "titulo": "SEO com React",
